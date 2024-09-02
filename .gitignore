@@ -4,5 +4,8 @@
 *.log
 *.eps
 *.o
+*.png
+*.txt
+*.ipynb
 
 
